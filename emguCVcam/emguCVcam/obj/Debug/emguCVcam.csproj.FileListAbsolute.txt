@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\emguCVcam.exe.config
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\emguCVcam.exe
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\emguCVcam.pdb
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\Emgu.CV.xml
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\Emgu.CV.ML.xml
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\bin\Debug\Emgu.Util.xml
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\obj\Debug\emguCVcam.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\obj\Debug\emguCVcam.Properties.Resources.resources
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\obj\Debug\emguCVcam.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\obj\Debug\emguCVcam.exe
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\obj\Debug\emguCVcam.pdb
+C:\Users\User\Desktop\AdminLF\C#\emguCVcam\emguCVcam\emguCVcam\obj\Debug\emguCVcam.Form1.resources
